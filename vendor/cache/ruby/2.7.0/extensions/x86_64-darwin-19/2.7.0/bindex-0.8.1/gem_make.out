@@ -1,0 +1,15 @@
+current directory: /Users/Riibig5Techy/Projects/ShopifyJobs/contestapp/vendor/cache/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/Riibig5Techy/.rvm/rubies/ruby-2.7.0/bin/ruby -I /Users/Riibig5Techy/.rvm/rubies/ruby-2.7.0/lib/ruby/2.7.0 -r ./siteconf20220118-14102-9iy4y2.rb extconf.rb
+creating Makefile
+
+current directory: /Users/Riibig5Techy/Projects/ShopifyJobs/contestapp/vendor/cache/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/Riibig5Techy/Projects/ShopifyJobs/contestapp/vendor/cache/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/Riibig5Techy/Projects/ShopifyJobs/contestapp/vendor/cache/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20220118-14102-ol78q1/skiptrace/internal

@@ -1,0 +1,16 @@
+current directory: /Users/Riibig5Techy/Projects/ShopifyJobs/contestapp/vendor/cache/ruby/2.7.0/gems/strscan-3.0.1/ext/strscan
+/Users/Riibig5Techy/.rvm/rubies/ruby-2.7.0/bin/ruby -I /Users/Riibig5Techy/.rvm/rubies/ruby-2.7.0/lib/ruby/2.7.0 -r ./siteconf20220118-14102-cicsas.rb extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+creating Makefile
+
+current directory: /Users/Riibig5Techy/Projects/ShopifyJobs/contestapp/vendor/cache/ruby/2.7.0/gems/strscan-3.0.1/ext/strscan
+make "DESTDIR=" clean
+
+current directory: /Users/Riibig5Techy/Projects/ShopifyJobs/contestapp/vendor/cache/ruby/2.7.0/gems/strscan-3.0.1/ext/strscan
+make "DESTDIR="
+compiling strscan.c
+linking shared-object strscan.bundle
+
+current directory: /Users/Riibig5Techy/Projects/ShopifyJobs/contestapp/vendor/cache/ruby/2.7.0/gems/strscan-3.0.1/ext/strscan
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 strscan.bundle ./.gem.20220118-14102-l1a4vq
